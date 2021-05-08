@@ -1,3 +1,3 @@
 # EpyTodo
 
-Objectif : Back End of a 'ToDo List' Website
+Subject : Create the back end of a 'ToDo List' Website
